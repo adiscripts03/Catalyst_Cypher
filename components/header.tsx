@@ -21,15 +21,11 @@ export default function Header({ currentPage, onNavigate, onLogout }: HeaderProp
 
   return (
     <header>
-      <div className="brand">
-        <div className="logo">
-          <Image src="/catalyst-logo.png" alt="Catalyst Logo" width={80} height={50} priority />
-        </div>
-        <div>
-          <div className="title">Catalyst</div>
-          <div className="subtitle">IIIT Nagpur Student Portal</div>
-        </div>
+    <div className="brand">
+      <div className="logo">
+        <Image src="/catalyst-logo.png" alt="Catalyst Logo" width={100} height={50} priority />
       </div>
+    </div>
 
       <nav role="navigation" aria-label="Main navigation">
         {navItems.map((item) => (
