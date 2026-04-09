@@ -18,6 +18,9 @@ The platform lets students:
 
 It’s a project made with care, teamwork, and the belief that small digital improvements can make a big difference on campus.  
 
+## Acheivements 
+- This project was awarded as the 2nd RunnerUp at Crispr DemoDays Competition.
+
 ---
 
 
